@@ -8,7 +8,3 @@ A website that documents my journey of learning web development. The repository 
 
 ## Requirements
 - You can run the website online. No need to install it.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-# Web-Technologies
