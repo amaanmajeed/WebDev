@@ -17,5 +17,5 @@ Welcome to my repository documenting my journey of learning web development. Vis
 2. To view the code for each website, click on the "HTML" or "CSS" button on the top right-hand side of the website.
 
 ## Contributing
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are always welcome! Please read the contribution guidelines `CONTRIBUTE.md` first.
 
